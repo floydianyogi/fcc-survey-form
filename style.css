@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image:     url("https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&w=1000&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#survey-form {
+  margin: 30px 0;
+}
+#title {
+  text-align: center;  
+}
+#description {
+  text-align: center;
+  margin: 15px 0;
+}
+#message {
+  margin: 20px 0;
+}
+#submit {
+  background-color: gray;
+}
